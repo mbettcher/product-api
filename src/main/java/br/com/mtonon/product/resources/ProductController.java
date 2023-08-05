@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.mtonon.product.domain.dto.ProductDTO;
 import br.com.mtonon.product.services.ProductService;
+import br.com.mtonon.shopping.domain.dto.ProductDTO;
 import jakarta.validation.Valid;
 
 @RestController

@@ -1,6 +1,6 @@
 package br.com.mtonon.product.domain;
 
-import br.com.mtonon.product.domain.dto.ProductDTO;
+import br.com.mtonon.shopping.domain.dto.ProductDTO;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
